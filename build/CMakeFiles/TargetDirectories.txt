@@ -1,0 +1,3 @@
+/home/wk/converter/build/CMakeFiles/converter.dir
+/home/wk/converter/build/CMakeFiles/edit_cache.dir
+/home/wk/converter/build/CMakeFiles/rebuild_cache.dir
